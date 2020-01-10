@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebModel.Models
@@ -16,5 +17,7 @@ namespace WebModel.Models
 
         [MaxLength(50)]
         public string Type { set; get; }
+
+        public virtual IEnumerable<PostTag> PostTags { set; get; }
     }
 }

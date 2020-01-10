@@ -1,0 +1,16 @@
+D:\WebBanHang\Git\WebData\obj\Debug\WebData.csprojAssemblyReference.cache
+D:\WebBanHang\Git\WebData\bin\Debug\WebData.dll.config
+D:\WebBanHang\Git\WebData\bin\Debug\WebData.dll
+D:\WebBanHang\Git\WebData\bin\Debug\WebData.pdb
+D:\WebBanHang\Git\WebData\bin\Debug\EntityFramework.dll
+D:\WebBanHang\Git\WebData\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebBanHang\Git\WebData\bin\Debug\WebCommon.dll
+D:\WebBanHang\Git\WebData\bin\Debug\WebModel.dll
+D:\WebBanHang\Git\WebData\bin\Debug\WebCommon.pdb
+D:\WebBanHang\Git\WebData\bin\Debug\WebModel.pdb
+D:\WebBanHang\Git\WebData\bin\Debug\WebModel.dll.config
+D:\WebBanHang\Git\WebData\bin\Debug\EntityFramework.xml
+D:\WebBanHang\Git\WebData\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebBanHang\Git\WebData\obj\Debug\WebData.csproj.CopyComplete
+D:\WebBanHang\Git\WebData\obj\Debug\WebData.dll
+D:\WebBanHang\Git\WebData\obj\Debug\WebData.pdb
